@@ -1,2 +1,2 @@
 # demo
-GIT commands demo
+GIT commands demo exercise 1
